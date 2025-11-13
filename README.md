@@ -11,9 +11,13 @@ O projeto terá o back-end desenvolvido em Java, garantindo robustez e escalabil
 
 
 
-#Grupo
+# Grupo
 Alice Barros Viana
+
 Cauã Luiz Araujo e Andrade
+
 Eduardo Oliveira de Lana
+
 Tulio Macedo
+
 Victor Ferreira de Castro Alves
